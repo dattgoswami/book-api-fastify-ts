@@ -1,0 +1,20 @@
+# Node related
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# TypeScript / build output
+dist/
+*.tsbuildinfo
+
+# Environment variables and secrets
+.env
+
+# Editor and IDE - Visual Studio Code specific
+.vscode/
+*.code-workspace
+
+# OS generated
+.DS_Store
+Thumbs.db
